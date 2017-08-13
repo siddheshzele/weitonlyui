@@ -1,0 +1,25 @@
+.news-info__post{
+  position:relative;
+  margin-bottom:15px;
+  padding:5px 15px 15px 84px;
+  -webkit-border-radius:10px;
+  border-radius:10px;
+  -webkit-transition:0.5s all;
+  transition:0.5s all;
+}
+
+.news-info__date-block{
+  position:absolute;
+  left:20px;
+  text-align:center;
+}
+
+.news-info__title{
+  font-size:18px;
+  line-height:20px;
+  margin:5px 0 3px;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top{
+}
+
