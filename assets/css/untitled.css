@@ -91,12 +91,7 @@ h3.bg-primary{
   box-shadow:0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-.card{
-  margin-bottom:20px;
-  padding:35px;
-  text-align:center;
-  cursor:pointer;
-}
+
 
 .maintopics{
   font-size: 30px;
@@ -142,28 +137,19 @@ h3.bg-primary{
     background-color: #FFF;
 }
 
-
-@media (max-width:767px) {
-  div.card{
-    padding:5px;
-  }
+.navbar-toggle{
+    right: 10px;
 }
 
-@media (max-width:360px) {
-  div.card-image{
-    padding:5px;
-  }
-}
-
-@media (max-width:360px) {
-  div.card-content{
-    padding:5px;
-  }
+.img-fluid{
+  width: 100%;
 }
 
 @media (max-width:767px) {
-  div.card-action{
-    padding:5px;
-  }
 }
+
+@media (max-width:360px) {
+}
+/* 9 9 99 9 */
+
 
